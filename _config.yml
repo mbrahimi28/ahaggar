@@ -12,12 +12,12 @@ author: ahaggar networks
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About : "aboutme"
   Topics:
     - Cisco ISE : "https://beautifuljekyll.com"
     - Network Automation : "https://www.markdowntutorial.com/"
     - Python : "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Mailing list: "https://deanattali.com"
+  About : "aboutme"
 
 # --- Logo --- #
 
